@@ -2,6 +2,12 @@
 
 Primer ejercicio de JavaFX.
 
+PRERREQUISITOS DEL PROGRAMA
+
+- Tener instalado java (https://www.java.com)
+- Tener instalado jdk 8 (https://www.oracle.com/es/java/technologies/javase/javase8-archive-downloads.html) o por su contrario tener openFX (https://openjfx.io/) con una version más actual de jdk (a partir de la versión 11 en adelante es necesario openFX)
+- Tener las variables de entorno de java bien configuradas 
+
 EJECUCIÓN DEL PROGRAMA
 
 Para ejecutar el programa ubiquese en la carpeta /HelloWorld/src/HelloWorld y corra el programa con el comando -> 
